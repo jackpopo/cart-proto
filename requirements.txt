@@ -1,0 +1,4 @@
+asgiref @ file:///Users/ec2-user/ci_py311/asgiref_1678390266874/work
+Django @ file:///Users/ec2-user/ci_py311/django_1678411010555/work
+Pillow==9.4.0
+sqlparse @ file:///Users/ec2-user/ci_py311/sqlparse_1678394278812/work
